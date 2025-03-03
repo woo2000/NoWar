@@ -1,0 +1,8 @@
+{
+  "name": "Anti-War Token",
+  "symbol": "NOWAR",
+  "description": "A token for a world without war.",
+  "image": "https://raw.githubusercontent.com/woo2000/NoWar/9bb60f8bc16d46fc8e41ebb3020a8d88d7427f8f/metadata/NOWAR_LOGO_green_250.png",
+  "showName":true,
+  "website":"https://nowar.hotroom.org"
+}
